@@ -1,4 +1,4 @@
-/static/*
-/templates/*
+static/*
+templates/*
 app.py
-/__pycache__/*
+__pycache__/*
