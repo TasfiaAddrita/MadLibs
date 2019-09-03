@@ -1,0 +1,12 @@
+body {
+    /* background-color: blue; */
+}
+
+.container {
+    width: inherit;
+    text-align: center;
+}
+
+.container p {
+    color: grey;
+}

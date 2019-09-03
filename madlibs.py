@@ -51,4 +51,4 @@ def create_story():
     finished_story = " ".join(story_list)
     return finished_story
 
-# print(create_story())
+print(create_story())
