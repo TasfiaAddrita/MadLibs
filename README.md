@@ -29,7 +29,8 @@ Mad Libs typically starts by prompting you (the user) to provide words based on 
 
 
 ## How to run/setup
-Clone or download this repo, go to the directory where the downloaded file is, then type in the terminal `python3 madlibs.py`
+Clone or download this repo, go to the directory where the downloaded file is, then type in the terminal
+```python3 madlibs.py```
 
 ## Resources
 Avatar Wiki for Opening Sequence: https://avatar.fandom.com/wiki/Opening_sequence
