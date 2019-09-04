@@ -35,5 +35,5 @@ python3 madlibs.py
 ```
 
 ## Resources
-Avatar Wiki for Opening Sequence: https://avatar.fandom.com/wiki/Opening_sequence
+Avatar Wiki for Opening Sequence: https://avatar.fandom.com/wiki/Opening_sequence  
 Stack Overflow of course
