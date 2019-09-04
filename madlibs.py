@@ -80,7 +80,7 @@ story1 = "_1NAME_ likes to _1VERB_ ice cream. She prefers _1ADJECTIVE_ over _2AD
 
 story2 = "_1NOUN_. _2NOUN_. _3NOUN_. _4NOUN_. Long ago, four nations lived together in _5NOUN_. Then, everything changed when the _1ADJECTIVE_ _2NOUN_ Nation attacked. Only the _6NOUN_, master of all four elements, could _1VERB_ them, but when the world needed him most, he _2VERB_. A hundred years passed and my _7NOUN_ and I _3VERB_ the new _6NOUN_, a _2NOUN_ bender named _1NAME_. And although his _2NOUN_ bending skills are _2ADJECTIVE_, he has a lot to _4VERB_ before he's ready to _5VERB_ anyone. But I believe _1NAME_ can _5VERB_ the _8NOUN_."
 
-# print(create_story(story1)) # TEST
+# print(create_story(story1)) # TEST 
 print(create_story(story2))
 
 # -------------- WEBSITE --------------
